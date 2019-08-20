@@ -1,2 +1,2 @@
 # Arduino-voltmeter
-hi example
+more info at https://hexbee.blogspot.com/
